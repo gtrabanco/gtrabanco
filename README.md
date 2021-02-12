@@ -6,9 +6,7 @@ I begun to program when I was 13 HTML, CSS, PHP and SQL. Currently I prefer Type
 
 Now studying Computer Engineering in UNED.
 
-Collaboring in https://medium.com/puntotech
-
-I also have a multillingual personal blog I write from time to time: https://blog.gabi.io
-
-- 📫  https://Keybase.io/gtrabanco
-- 📝 https://www.linkedin.com/in/gabrieltrabanco/
+- I write in https://medium.com/puntotech
+- Also a personal blog: https://blog.gabi.io
+- 📫 Contact on: https://Keybase.io/gtrabanco
+- 📝 CV in: https://www.linkedin.com/in/gabrieltrabanco/
