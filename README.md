@@ -10,7 +10,5 @@ Collaboring in https://medium.com/puntotech
 
 I also have a multillingual personal blog I write from time to time: https://blog.gabi.io
 
-📫  https://Keybase.io/gtrabanco
-📝 https://www.linkedin.com/in/gabrieltrabanco/
-
-Some Hobbies are 🤾 📺 🏔 💻
+- 📫  https://Keybase.io/gtrabanco
+- 📝 https://www.linkedin.com/in/gabrieltrabanco/
