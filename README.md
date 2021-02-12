@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi! 👋
 
-<!--
-**gtrabanco/gtrabanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel, living since 1987 🍷
 
-Here are some ideas to get you started:
+I begun to program when I was 13 HTML, CSS, PHP and SQL. Currently I prefer Typescript or any other language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now studying Computer Engineering in UNED.
+
+Collaboring in https://medium.com/puntotech
+
+I also have a multillingual personal blog I write from time to time: https://blog.gabi.io
+
+📫  https://Keybase.io/gtrabanco
+
+Some Hobbies are 🤾 📺 🏔 💻
