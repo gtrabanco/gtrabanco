@@ -11,7 +11,7 @@ Now studying Computer Engineering in UNED.
 - 📫 Contact on: https://Keybase.io/gtrabanco
 - 📝 CV in: https://www.linkedin.com/in/gabrieltrabanco/
 
-![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtrabanco&theme=dracula&show_icons=true)![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrabanco&theme=dracula&layout=compact)
+![Gtrabanco's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtrabanco&theme=dracula&show_icons=true)  ![Gtrabanco's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gtrabanco&theme=dracula&layout=compact)
 
 ----
 
