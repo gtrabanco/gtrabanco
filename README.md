@@ -1,6 +1,6 @@
 Hi! 👋
 
-My name is Gabriel, living since 1987 🍷
+My name is Gabriel, alive since 1987 🍷
 
 I begun to program when I was 13 HTML, CSS, PHP and SQL. Currently I prefer Typescript or any other language.
 
