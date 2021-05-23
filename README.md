@@ -2,7 +2,7 @@ Hi! 👋
 
 My name is Gabriel, alive since 1987 🍷
 
-I begun to program when I was 13 HTML, CSS, PHP and SQL. Currently I prefer Typescript or any other language.
+I begun to program when I was 13. I started with HTML, CSS, PHP and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
 
 Now studying Computer Engineering in UNED.
 
