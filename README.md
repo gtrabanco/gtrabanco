@@ -1,6 +1,6 @@
 Hi! 👋
 
-My name is Gabriel, alive since 1987 🍷
+My name is Gabriel.
 
 I begun to program when I was 13. I started with HTML, CSS, PHP and SQL. Currently I prefer Typescript or any other language. I love the shell, does not matter if it is the windows PowerShell enviroment, BASH or ZSH.
 
