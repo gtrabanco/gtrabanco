@@ -4,6 +4,8 @@ Sysadmin asturiano. JavaScript, shell, redes, homelab. Programo desde antes de s
 
 Aquí monto cosas pequeñas que resuelven mis propios problemas. A veces le sirven a alguien más.
 
+Informático desde antes de ser mayor de edad.
+
 ---
 
 #### En qué ando ahora
@@ -22,7 +24,7 @@ Aquí monto cosas pequeñas que resuelven mis propios problemas. A veces le sirv
 
 #### Stack que uso casi todos los días
 
-`TypeScript` · `Bash` / `Zsh` · `Docker` · `Home Assistant` · `Cloudflare` · `Proxmox` · `Mikrotik` · `Ubiquiti`
+`TypeScript` · `Astro` · `Bun` · `Bash` / `Zsh` · `Docker` · `Home Assistant` · `Cloudflare` · `Proxmox` · `Mikrotik` · `Ubiquiti`
 
 #### Filosofía técnica corta
 
